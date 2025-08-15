@@ -1,1 +1,21 @@
+# Ignore server-side Node files (not needed for static SPA)
 server/
+server.ts
+server.js
+server/**
+
+# Ignore backend-specific configs
+tsconfig.server.json
+vite.server.ts
+
+# Ignore local env files (handled by Vercel env vars instead)
+.env
+.env.local
+.env.development
+.env.production
+
+# Ignore logs and cache
+node_modules/
+*.log
+.cache/
+dist-ssr/
