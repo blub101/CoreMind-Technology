@@ -1,0 +1,558 @@
+🧠 AI-Enhanced IT Company Homepage Prompt for Website Builder or ChatGPT Website Generation
+Complete theme in black color
+Create a modern, 3D-styled, responsive homepage UI for an IT company using the following details:
+________________________________________
+🎨 Theme Color Variables
+--theme-color: #6D30FB;
+--theme-color2: #AB33F5;
+--theme-color3: #FF6914;
+--title-color: #051600;
+--body-color: #6F756D;
+--smoke-color: #F5F5F5;
+--smoke-color2: #FFF7F6;
+--smoke-color3: #FFF3E0;
+--smoke-color4: #F2F2F2;
+--black-color: #000000;
+--black-color2: #0D0D0D;
+--black-color3: #2F2F2F;
+--th-border-color: #D7D7D7;
+--th-border-color2: #EEEFF2;
+--th-border-color3: rgba(87, 88, 95, 0.5);
+--th-border-color4: rgba(198, 201, 212, 0.5);
+--light-color: #C6C9D4;
+--gray-color: #141414;
+--gray-color2: #F4F3E6;
+--gray-color3: #A1A1A1;
+--gray-color4: #F4F1FC;
+--gray-color5: #FFF5F1;
+--black-color4: #00110E;
+--black-color5: #22272E;
+--black-color6: #2D333D;
+--black-color7: #0E0E13;
+--white-color: #ffffff;
+--yellow-color: #FFB539;
+--success-color: #28a745;
+--error-color: #dc3545;
+--th-border-color5: #49515C;
+--th-border-color6: #383D46;
+________________________________________
+🧱 Header Section
+•	Left: Company Logo
+•	Center: Small circular, 3D header with nav links:
+o	Home
+o	About Us
+o	Services
+	Web Development
+	App Development
+	Digital Marketing
+	AI/ML Development
+o	Careers
+o	Contact Us
+o	FAQ
+•	Right: Get Started → button (round, animated hover)
+________________________________________
+🎯 Hero Section
+•	Background: black-color4 (#00110E) with blurred 3D animation in background
+•	Left Side:
+o	Title: Building Smarter Businesses with AI-Powered IT Solutions
+o	Text: We craft modern websites, scalable mobile apps, and ROI-driven marketing strategies — all enhanced with cutting-edge AI to future-proof your brand.
+o	Buttons: Get Started & Discovery Now
+•	Right Side: Lottie 3D animation of website construction
+________________________________________
+🔁 Scrolling Tech Icons Section
+•	Animated scrolling tech icons (looping left to right & right to left):
+o	HTML, CSS, JavaScript, React.js, MongoDB, AWS, Cloud, Next.js, Firebase, MySQL, Flutter, FlutterFlow, jQuery, Django
+________________________________________
+💡 Features Section
+•	Title: • Features
+•	Subtitle: AI Technology – Your Gateway To The Future
+•	3 Feature Blocks with vector images and content:
+1.	Web Development
+2.	App Development
+3.	Digital Marketing
+•	Each with description and More Explore → button
+Below that:
+At Robor AI Technology Business, We Are Dedicated To Democratizing Artificial Intelligence.
+Our Mission Is To Provide Cutting-Edge AI Solutions That Empower Businesses To Thrive In The Digital Age.
+________________________________________
+🔍 About Us Section
+•	Heading: • About Us
+•	Subheading: Empower Your Business With Real-Time Intelligence
+•	Text: Artificial Intelligence (AI) technology refers to the simulation of human intelligence in machines that are programmed to think, learn, and make decisions. AI technology leverages data, algorithms, and computing power to automate tasks.
+•	Points with icons/images:
+o	Advanced Artificial Intelligence Capabilities for Enhanced Efficiency
+o	Real-time Data Analysis and Monitoring for Optimized Performance
+o	Collaborative and Autonomous Robots for Seamless Integration
+•	Button: Discover More →
+________________________________________
+📊 Stats Section (inside styled circles)
+•	0M Project Completed
+•	0k Creative Minds
+•	0M Happy Customers
+•	0k Innovative Projects
+•	0M Collaborative Team
+________________________________________
+💼 Our Services (Full Screen Round Section)
+AI Technology Services Aim To Provide Intelligent Solutions
+List of Service Points (left aligned, with vertical line and hover interaction):
+1.	AI Consulting Services
+o	Identify and mitigate potential security threats in real-time.
+2.	Machine Learning
+o	Develop and deploy models tailored to specific business needs.
+3.	Robotic Process Automation
+o	Automate repetitive tasks such as data entry, invoice processing, and report generation.
+4.	AI in Cybersecurity
+o	Identify and mitigate potential security threats in real-time.
+Right side: Arrow vector that changes to preview image on hover
+Bottom: Arrow-down icon
+________________________________________
+🧬 Scrolling Marquee Tags
+Animated horizontally scrolling with dot bullets:
+•	• Healthcare • AI Algorithms • Computer Vision • Deep Learning • Customer Support • Health Care
+________________________________________
+📂 Case Study Section
+•	Left Title: • Case Study
+•	Right Title: Our Projects & Case Studies
+•	Below: Grid of boxes (2x per row) with project image and tech name. On hover: dark overlay
+________________________________________
+🤝 AI Consulting Offer Section
+•	Heading: • AI Consulting
+•	Subheading: Get 40% off your first month of Artificial Intelligent support — Please Consulting Us
+•	Background: full image with semi-transparent overlay
+•	Top left + top right: stylish small decorative image
+•	Center Button: Get Started Now → with white-on-black hover effect
+________________________________________
+🏆 Why We Are The Best Section
+•	Heading: Why We Are The Best
+•	Text: Top-Tier Development, Startup-Friendly Costs!
+•	Left: animated GIF
+•	Right:
+o	Heading: Affordable Innovation for Every Business!
+o	Text: From sleek websites to powerful mobile apps, we provide top-tier development services at unbeatable prices. Quality, efficiency, and affordability—all in one place!
+o	Bullet Points:
+	✅ Best For IT Consulting
+	✅ Innovative Approaches
+	✅ Save Money & Time
+	✅ 100% Satisfaction
+o	Vector illustration on right side
+________________________________________
+📞 Contact Footer Section
+•	Watermark Text: LET'S TALK
+•	Contact Details:
+o	Location: 56 Moo 9 Ladlumkaew-Pathumthani Rd., Pathum Thani 12140, Thailand
+o	Phone: +6624073460
+o	Email: help24/7.info@robor.com, info@robor.com
+•	Horizontal Divider Line
+Subscribe to Newsletter
+Get Monthly insights from founders around the globe. No spam - promise.
+[ Enter your email ]  [ Subscribe ]
+Newsletter:
+Subscribe to Newsletter
+Get Monthly insights from founders around the globe. No spam - promise.
+[ Enter your email ]  [ Subscribe ]
+________________________________________
+🔗 Footer Links
+•	Useful Links:
+o	Home, About Us, Features, Projects, Blog
+•	Company:
+o	What we Offer, Our Story, Latest Posts, Help Center, Our Partners
+•	Our Services:
+o	Robotic Automation, Education & Science, Machine Learning, Predictive Analysis, Data Security
+•	Final Line:
+o	Copyright 2025 Robor. All Rights Reserved.
+o	Privacy Policy | Contact | Terms and Conditions
+
+
+About Page 
+
+
+Prompt for About Page of IT/AI Company Website
+Theme/Style:
+•	Keep the same logo, theme, and color scheme as the homepage.
+•	Maintain the same header layout with all buttons consistent.
+________________________________________
+Section 1: Hero Section
+•	Just below the header, add a hero section.
+•	Include a background image.
+•	Overlay text:
+o	Main Heading: "About Us"
+o	Breadcrumb: Home -> About Us
+________________________________________
+Section 2: About Main Info (Image + Text Side-by-Side)
+•	Left side:
+o	A corner-curved image.
+o	On top of it, place another floating image with a 3D look and slight up/down motion animation.
+•	Right side:
+o	A small horizontal line.
+o	Heading: About Us
+o	Subheading: Leading the Future of Business Innovation with Tailor-Made AI Solutions
+o	Paragraph:
+We begin by understanding your business goals, challenges, and opportunities for AI integration. Our experts assess your current systems and identify areas where AI can bring the most impact. Our team designs a tailor-made AI solution based on your specific requirements. We develop machine learning models, build algorithms, and create prototypes to ensure the solution aligns with your business objectives.
+________________________________________
+Section 3: Highlights (Satisfaction & Assurance)
+•	Add a vector illustration as background.
+•	Two side-by-side content boxes:
+o	Box 1
+	Heading: 100% Customer Satisfaction
+	Paragraph: We bring a team of experienced AI specialists, data scientists, and industry experts committed to pushing.
+o	Box 2
+	Heading: Quality Assurance Guarantee
+	Paragraph: We bring a team of experienced AI specialists, data scientists, and industry experts committed to pushing.
+•	Button Below: More About Us →
+________________________________________
+Section 4: Circular Counters
+•	Each statistic should be in a circle:
+o	68M
+	Label: Project Completed
+o	16k
+	Label: Creative Minds
+o	62M
+	Label: Happy Customers
+o	7k
+	Label: Innovative Projects
+o	38M
+	Label: Collaborative Team
+________________________________________
+Section 5: Work Process
+•	Left side:
+o	Heading: Work Process
+o	Subheading: How Does it Work?
+o	Paragraph: Choosing us means partnering with a forward-thinking team that’s as invested in your success as you are. Together, we’ll unlock the full potential of AI to transform your business.
+o	3 Work Steps:
+1.	Discovery and Strategy
+	Description: We start with in-depth discussions to understand your challenges, goals, and business processes.
+2.	Development & Implementation
+	Description: We collect, clean, and analyze data to develop AI models tailored to your use case.
+3.	Optimization and Support
+	Description: We continuously monitor the AI solution to ensure it delivers consistent and accurate results.
+o	Add scroll-based animation to steps.
+•	Right side:
+o	A 3D look animated image.
+________________________________________
+Section 6: Advanced Technology
+•	Left side:
+o	Heading: Advanced Technology
+o	Subheading: The Future is Here: Advance Technology
+o	Four Feature Boxes (with vector icons):
+	Tech Support
+To empower businesses with intelligent, scalable, and impactful solutions that drive progress
+	Robo Genius
+To empower businesses with intelligent, scalable, and impactful solutions that drive progress
+	Image Generation
+To empower businesses with intelligent, scalable, and impactful solutions that drive progress
+	Chatbots
+To empower businesses with intelligent, scalable, and impactful solutions that drive progress
+•	Right side:
+o	3 images:
+	One half-width image on top left
+	One full-height image beside it
+	One image below both
+________________________________________
+Section 7: Call to Action
+•	Heading: Get Started
+o	With a small line to the left of it
+•	Subheading: Let's Make Something Great Together
+•	Button: Contact Us →
+•	Right side: 3D image
+•	Watermark text below image: connect
+________________________________________
+Section 8: Footer Section (Curved Background Style)
+•	Background: Dark blue with curved top shape
+•	Top Text: Robor
+Data privacy and security are at the core of our operations, ensuring compliance with global standards like GDPR and HIPAA.
+•	Useful Links Columns:
+o	Useful Links
+	Home
+	About Us
+	Features
+	Projects
+	Blog
+o	Company
+	What we Offer
+	Our Story
+	Latest Posts
+	Help Center
+	Our Partners
+o	Our Service
+	Robotic Automation
+	Education & Science
+	Machine Learning
+	Predictive Analysis
+	Data Security
+•	Get the App Section
+o	Text: We suggest connecting apps
+o	App Images
+o	Social Media Icons: WhatsApp, Instagram, LinkedIn, YouTube
+•	Bottom Footer
+o	Text: © 2025 Robor. All Rights Reserved.
+o	Small links: Privacy Policy | Terms of Services | Disclaimer
+
+
+Servies pages 
+Prompt for AI Tool / Website Builder / Developer:
+Create a "Web Development Services" page for a modern IT solutions company named "CMT AI" using the following theme colors:
+css
+CopyEdit
+--theme-color: #6D30FB;
+--theme-color2: #AB33F5;
+--theme-color3: #FF6914;
+--title-color: #051600;
+--body-color: #6F756D;
+--smoke-color: #F5F5F5;
+--black-color: #000000;
+--white-color: #ffffff;
+🔷 1. Header
+•	Keep same header as the homepage with logo, nav items and CTA buttons ("Get Started", "Contact").
+🔷 2. Hero Section
+•	Use a background image in the hero section (preferably related to web development).
+•	Overlay text in the center:
+o	Small Title: Services
+o	Large Title: Web Development
+🔷 3. Introduction Section
+•	Centered heading: Our Web Development Services
+•	Left side:
+o	Heading: Empowering Businesses with High-Performance Website Development
+o	Paragraph:
+css
+CopyEdit
+At CMT AI, we specialize in custom website development, offering innovative, scalable, and SEO-friendly solutions tailored to your business needs. Whether you need a corporate website, eCommerce platform, or custom web application, our expert developers ensure a seamless digital experience.
+•	Right side: 3D illustration/image representing modern web design or UI/UX.
+🔷 4. Services List Section
+•	Two-column grid with each item preceded by ✅ check icon.
+•	Services list:
+mathematica
+CopyEdit
+Company Profile Websites
+Portfolio Websites
+Consulting Websites
+Law Firm Websites
+Agency Websites
+Single Vendor E-Commerce Websites
+Multi-Vendor Marketplaces
+Dropshipping Websites
+Subscription-Based E-Commerce
+Blogs & News Websites
+Wiki & Knowledge Base Websites
+Online Course & LMS Websites
+Non-Profit & Charity Websites
+Social Networking Platforms
+Forum & Discussion Websites
+Membership & Subscription Websites
+Video Streaming Websites
+Music Streaming Websites
+Online Magazine Websites
+Gaming & Esports Websites
+Hotel & Travel Booking Websites
+Doctor & Healthcare Appointment Websites
+Salon & Spa Booking Platforms
+Event Ticket Booking Websites
+Property Rental Websites
+Real Estate Agency Websites
+Property Marketplace Websites
+Fintech & Investment Platforms
+Online Banking & Loan Management Websites
+•	Smooth animated appearance for items (fadeIn or staggered animation).
+🔷 5. Development Process Section
+•	Left side: 3D image/illustration representing development process.
+•	Right side: Animate each point as steps:
+1.	Requirement Gathering
+2.	UI/UX Design
+3.	Frontend Development
+4.	Backend Integration
+5.	Testing & QA
+6.	Deployment & Maintenance
+🔷 6. Call to Action Section
+•	Dark background section.
+•	Title: Let’s Make Something Great Together
+•	Small line next to it like a visual separator.
+•	Button: Contact Us →
+•	Right side: 3D image of collaboration/handshake/teamwork.
+🔷 7. Curved Footer Section
+•	Curved shape on top
+•	Dark animated background (tech-style or futuristic)
+•	Footer text area:
+o	Title: Robor
+o	Description: Data privacy and security are at the core of our operations, ensuring compliance with global standards like GDPR and HIPAA.
+•	Useful Links (in grid or columns):
+o	Home
+o	About Us
+o	Features
+o	Projects
+o	Blog
+o	Company
+o	What we Offer
+o	Our Story
+o	Latest Posts
+o	Help Center
+o	Our Partners
+•	Services:
+o	Robotic Automation
+o	Education & Science
+o	Machine Learning
+o	Predictive Analysis
+o	Data Security
+•	Get the App: Show dummy app icon or button.
+•	Social Media Icons: Facebook, Twitter, LinkedIn, Instagram.
+•	Bottom Footer Text:
+pgsql
+CopyEdit
+Copyright 2025 Robor. All Rights Reserved.
+Privacy Policy | Terms of Services | Disclaimer
+________________________________________
+🛠 Reusable for Other Services Pages:
+For:
+•	App Development
+•	Digital Marketing
+•	AI/ML Development
+Just change:
+•	Page title
+•	Hero image
+•	Section paragraph and 3D illustrations
+•	Services list (optional)
+Baaki structure 100% same rahega.
+
+Contact page 
+Contact Us Page Prompt for AI Company Website
+Header & Theme:
+•	Maintain the same header and theme as all pages (logo, navigation, CTA button, dark mode with tech-inspired accent colors).
+________________________________________
+Hero Section:
+•	Background Image: Same dark-tech 3D image used on other pages.
+•	Title: Contact Us
+•	Breadcrumb: Home -> Contact Us
+________________________________________
+Quick Contact Info Section:
+•	Heading: Quick Contact Info
+•	Sub-heading: Contact Information
+Four Contact Info Boxes (with vector icons):
+1.	Location
+o	Aai Saheb Housing Society, Sawant Bangla, 412308, Pakisthan
+2.	Email Us
+o	help24/7.info@robor.com
+o	info@robor.com
+3.	Free Call
+o	+919 (175) 513 663
+o	+919 (175) 513 773
+4.	Opening Hours
+o	Mon to Fri: 09AM - 05PM
+o	Saturday & Sunday: Closed
+________________________________________
+Contact Form Section:
+•	Layout: Split into two columns
+o	Left Side: Contact Form
+	Heading: Get In Touch!
+	Fields:
+	Your Name
+	Email Address
+	Phone Number
+	Select Subject (Dropdown: Web Development, App Development, UI/UX Design, Digital Marketing)
+	Company Name
+	Message Field: “How can we help you? Feel free to get in touch!”
+	Button: Submit Message
+	All fields should have appropriate icons
+o	Right Side: 3D Image (Tech theme, modern visual)
+________________________________________
+Get Started Section:
+•	Subheading: Get Started
+•	Title: Let's Make Something Great Together
+•	Button: Contact Us
+•	Right side: 3D Illustration
+________________________________________
+Curve Section with Animated Background (Dark Mode):
+•	Background: Curved shape with animated dark background
+•	Text Overlay:
+**Robor**
+Data privacy and security are at the core of our operations, ensuring compliance with global standards like GDPR and HIPAA.
+
+**Useful Links**
+- Home
+- About Us
+- Features
+- Projects
+- Blog
+- Company
+  - What we Offer
+  - Our Story
+  - Latest Posts
+  - Help Center
+  - Our Partners
+- Our Service
+  - Robotic Automation
+  - Education & Science
+  - Machine Learning
+  - Predictive Analysis
+  - Data Security
+
+**Get the App**
+We suggest connecting apps
+
+[social media icons]
+________________________________________
+Footer:
+•	Background: Same dark footer as other pages
+•	Text:
+o	Copyright 2025 Robor. All Rights Reserved.
+o	Privacy Policy | Terms of Services | Disclaimer
+________________________________________
+Prompt for: FAQs Page for an AI Solutions Company Website
+Design a modern and interactive “FAQs” page for an IT company website named "Robor" with the following layout and styling:
+•	Header:
+o	Keep the same header as the rest of the website — logo on the left, navigation menu (Home, About, Services, Projects, Contact, etc.), and “Get Started” button on the right.
+o	Sticky header with smooth scroll.
+•	Hero Section:
+o	Title: FAQs
+o	Breadcrumb: Home → FAQs
+o	Background image: use the same abstract AI-themed background image as used on other pages for consistency.
+•	FAQs Section (Accordion Style):
+o	Implement an animated accordion for FAQs — when a question is clicked, it expands to show the answer; others collapse.
+o	Each FAQ should include a plus-minus toggle icon.
+o	Add the following FAQ items:
+________________________________________
+1. What is an AI startup, and what services do you offer?
+An AI Software as a Service startup combines the scalability of cloud-based platforms with the power of artificial intelligence to deliver innovative, on-demand solutions. These startups cater to a wide range of industries by offering AI-driven tools and applications that solve specific business challenges, enhance efficiency, and drive data-informed decisions. The AI industry is rapidly expanding, with opportunities to disrupt traditional industries and create entirely new markets. Continuous advancements in hardware and algorithms position AI startups to play a pivotal role in shaping the future.
+2. Do you offer pre-built AI models or create everything from scratch?
+Same answer as above (reused content).
+3. What is the process for developing an AI solution for my business?
+Same answer as above (reused content).
+4. What is an AI startup, and what services do you offer?
+Same answer as above (duplicate question for testing toggle behavior).
+5. How do you ensure data privacy and compliance with regulations?
+Same answer as above (reused content).
+________________________________________
+•	CTA Section (Call to Action):
+o	Same design as other pages.
+o	Title: Get Started
+o	Subtitle: Let's Make Something Great Together
+o	Button: Contact Us
+o	Right side: a high-quality 3D illustration or AI-themed image.
+________________________________________
+•	Footer Section (Same across all pages):
+o	Logo: Robor
+o	About Text:
+“Data privacy and security are at the core of our operations, ensuring compliance with global standards like GDPR and HIPAA.”
+o	Useful Links:
+	Home
+	About Us
+	Features
+	Projects
+	Blog
+o	Company:
+	What we Offer
+	Our Story
+	Latest Posts
+	Help Center
+	Our Partners
+o	Our Services:
+	Robotic Automation
+	Education & Science
+	Machine Learning
+	Predictive Analysis
+	Data Security
+o	Get the App:
+	We suggest connecting apps
+	Icons or images for mobile platforms
+o	Bottom Footer:
+	Copyright
+	Social media icons
+	Privacy Policy & Terms
+

@@ -1,0 +1,173 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: hsl(0, 0%, 100%);
+  --foreground: hsl(20, 14.3%, 4.1%);
+  --muted: hsl(60, 4.8%, 95.9%);
+  --muted-foreground: hsl(25, 5.3%, 44.7%);
+  --popover: hsl(0, 0%, 100%);
+  --popover-foreground: hsl(20, 14.3%, 4.1%);
+  --card: hsl(0, 0%, 100%);
+  --card-foreground: hsl(20, 14.3%, 4.1%);
+  --border: hsl(20, 5.9%, 90%);
+  --input: hsl(20, 5.9%, 90%);
+  --primary: hsl(273, 86%, 60%);
+  --primary-foreground: hsl(0, 0%, 100%);
+  --secondary: hsl(60, 4.8%, 95.9%);
+  --secondary-foreground: hsl(24, 9.8%, 10%);
+  --accent: hsl(60, 4.8%, 95.9%);
+  --accent-foreground: hsl(24, 9.8%, 10%);
+  --destructive: hsl(0, 84.2%, 60.2%);
+  --destructive-foreground: hsl(60, 9.1%, 97.8%);
+  --ring: hsl(20, 14.3%, 4.1%);
+  --radius: 0.5rem;
+
+  /* Custom Theme Colors */
+  --theme-primary: hsl(273, 86%, 60%);
+  --theme-secondary: hsl(284, 85%, 58%);
+  --theme-accent: hsl(21, 100%, 52%);
+  --title-color: hsl(100, 100%, 8%);
+  --body-color: rgb(117, 124, 106);
+  --smoke-color: hsl(0, 0%, 96%);
+  --black-color: hsl(0, 0%, 0%);
+  --black-secondary: hsl(0, 0%, 5%);
+  --black-tertiary: hsl(0, 0%, 18%);
+  --black-deep: hsl(150, 100%, 3%);
+  --gray-border: hsl(0, 1%, 20%);
+  --white-color: hsl(0, 0%, 100%);
+  --bg-gray:  hsl(0, 0%, 8%);
+  --bubble: #4b0b0b;
+}
+
+.dark {
+  --background: hsl(150, 100%, 3%);
+  --foreground: hsl(0, 0%, 98%);
+  --muted: hsl(240, 3.7%, 15.9%);
+  --muted-foreground: hsl(240, 5%, 64.9%);
+  --popover: hsl(150, 100%, 3%);
+  --popover-foreground: hsl(0, 0%, 98%);
+  --card: hsl(150, 100%, 3%);
+  --card-foreground: hsl(0, 0%, 98%);
+  --border: hsl(217, 13%, 35%);
+  --input: hsl(217, 13%, 35%);
+  --primary: hsl(273, 86%, 60%);
+  --primary-foreground: hsl(0, 0%, 100%);
+  --secondary: hsl(240, 3.7%, 15.9%);
+  --secondary-foreground: hsl(0, 0%, 98%);
+  --accent: hsl(240, 3.7%, 15.9%);
+  --accent-foreground: hsl(0, 0%, 98%);
+  --destructive: hsl(0, 62.8%, 30.6%);
+  --destructive-foreground: hsl(0, 0%, 98%);
+  --ring: hsl(240, 4.9%, 83.9%);
+  
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply font-sans antialiased bg-[var(--black-deep)] text-white overflow-x-hidden;
+    font-family: 'Inter', sans-serif;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  .glass-effect {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  
+  .gradient-text {
+    background: linear-gradient(135deg, var(--theme-primary), var(--theme-secondary));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  
+  .hero-animation {
+    background: radial-gradient(circle at 50% 50%, rgba(109, 48, 251, 0.3) 0%, transparent 70%);
+  }
+  
+  .scrolling-container {
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%;
+  }
+  
+  .animate-scroll-left:hover {
+  animation-play-state: paused;
+}
+
+  .service-card:hover {
+    transform: translateY(-10px);
+    transition: all 0.3s ease;
+  }
+  
+  .stats-circle {
+    background: conic-gradient(from 0deg, var(--theme-primary), var(--theme-secondary), var(--theme-accent), var(--theme-primary));
+    padding: 3px;
+    border-radius: 50%;
+  }
+  
+  .stats-inner {
+    background: var(--black-secondary);
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+}
+
+@layer utilities {
+  .animate-float {
+    animation: float 6s ease-in-out infinite;
+  }
+  
+  .animate-glow {
+    animation: glow 2s ease-in-out infinite alternate;
+  }
+  
+  .animate-scroll-left {
+    animation: scroll-left 45s linear infinite;
+  }
+  
+  .animate-scroll-right {
+    animation: scroll-right 30s linear infinite;
+  }
+  
+  .animate-bounce-slow {
+    animation: bounce 3s ease-in-out infinite;
+  }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-20px); }
+}
+
+@keyframes glow {
+  0% { box-shadow: 0 0 20px var(--theme-primary); }
+  100% { box-shadow: 0 0 30px var(--theme-secondary); }
+}
+
+@keyframes scroll-left {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
+
+@keyframes scroll-right {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
